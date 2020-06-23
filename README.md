@@ -112,14 +112,3 @@
 
 # 三、系统升级
 > 参考：[系统如何升级？](https://github.com/zlkbdotnet/zfaka/wiki/%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E5%8D%87%E7%BA%A7%EF%BC%9F)
-
-# 四、BUG与问题反馈
-* 相关问题QQ交流群：701035212 [收费群]
-   
-# 五、推广时间
-* 全国IDC行业精英群:572511758
-
-# 六、捐赠&打赏
->捐赠名单：[查看名单](https://github.com/zlkbdotnet/zfaka/wiki/%E6%8D%90%E8%B5%A0%E5%90%8D%E5%8D%95)
-
-![1](https://github.com/zlkbdotnet/zfaka/blob/master/public/res/images/pay/supportme.jpg)
